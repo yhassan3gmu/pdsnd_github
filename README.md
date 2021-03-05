@@ -8,7 +8,7 @@ March 4, 2021
 Bikeshare Project Github
 
 ### Description
-I created a file called bikeshare.py where if you enter Chicago, Washington, or New York City, the month and day, you get information such as the dataframe, most common day, hour, stations used, etc.
+I created a file called bikeshare.py where if you enter Chicago, Washington, or New York City, the month and day, you get information such as the dataframe, most common day, hour, stations used, etc. This is an addition.
 
 ### Files used
 bikeshare.py
